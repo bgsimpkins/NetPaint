@@ -1,0 +1,1 @@
+java -classpath ".\build\classes" -Dsun.java2d.pmoffscreen=false client.PaintClient 1234 24.210.155.111
